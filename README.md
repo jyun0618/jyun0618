@@ -10,3 +10,8 @@ Major in Sociology and Statistics in KOREA UNIV.
 **Contact**
 
 [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />](https://marmalade-drive-848.notion.site/JIYUNiverse-6fea39478002434d85c5f2c6f91f9d34?pvs=4) <a href=mailto:dlwldbs0618@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dlwldbs0618@gmail.com"> </a>
+
+
+<br>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwldbs0618)](https://solved.ac/dlwldbs0618)
